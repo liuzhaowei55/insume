@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liuzhaowei55/insume.git"
+    "url": "git+https://github.com/liuzhaowei55/resume.git"
   },
   "keywords": [
     "简历"
@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/liuzhaowei55/insume/issues"
+    "url": "https://github.com/liuzhaowei55/resume/issues"
   },
-  "homepage": "https://github.com/liuzhaowei55/insume#readme",
+  "homepage": "https://github.com/liuzhaowei55/resume#readme",
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-conventional": "^8.3.4",
