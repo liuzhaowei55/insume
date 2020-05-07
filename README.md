@@ -1,3 +1,8 @@
+---
+sidebar: auto
+sidebarDepth: 0
+---
+
 # 求职/深圳/后端开发/刘照伟
 
 ## 个人信息
