@@ -1,18 +1,25 @@
 ---
+title: 简历/刘照伟/后端开发/深圳
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# 求职/深圳/后端开发/刘照伟
+## 自我介绍
 
-## 个人信息
+我叫*刘照伟（1992.01）*，籍贯河南，*14*年*本科*毕业于*黄河科技学院*，学习的是*软件工程*专业。  
 
-- 刘照伟（1992.01）
+毕业后在郑州工作一年，*15年7月份*过来*深圳*入职于一家香港公司技术团队，工作至今。  
+
+上家公司我的主要工作内容是*后端开发*，包括 APP *接口开发*，后台管理系统的*前后端开发*，以及服务器的*运维*工作。  
+
+工作中主要使用的开发语言是 *PHP*，开发框架是 *Laravel*，运维工作主要使用 *Ansible* 和 *Docker* 。
+
+目前寻求一份 PHP/Java 等相关语言的后端开发工作（Go/Node 语言亦可，目前我在写关于 NestJS 的开发实践文档）。
+
+## 联系方式
+
 - 邮箱：**liuzhaowei55@gmail.com**
-- 手机/微信：**0086-170-8095-2312**
-- 位置：深圳
-- 职业：服务端开发（PHP/Java）
-- 经验：6 年
+- 手机/微信：**+86-170-8095-2312**
 
 ## 技术栈
 
@@ -123,14 +130,18 @@ OmyCAR 后台管理系统基于前后端分离思想进行开发，前端页面�
 
 基于用户当前页面地址提供网址二维码及短链接服务，当前有 98 名用户使用。
 
-[moorper/qcode](https://github.com/moorper/qcode)
-
-[QCODE 二维码、短链接 生成工具](https://chrome.google.com/webstore/detail/qcode-%E4%BA%8C%E7%BB%B4%E7%A0%81%E3%80%81%E7%9F%AD%E9%93%BE%E6%8E%A5-%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/aefjmcpolambjjegdnmpcblmldcoebdm/related?utm_source=InfinityNewtab)
+* [moorper/qcode](https://github.com/moorper/qcode)
+* [QCODE 二维码、短链接 生成工具](https://chrome.google.com/webstore/detail/qcode-%E4%BA%8C%E7%BB%B4%E7%A0%81%E3%80%81%E7%9F%AD%E9%93%BE%E6%8E%A5-%E7%94%9F%E6%88%90%E5%B7%A5%E5%85%B7/aefjmcpolambjjegdnmpcblmldcoebdm/related?utm_source=InfinityNewtab)
 
 ### Spring Boot 开发最佳实践
 
-[Spring Boot 开发最佳实践 · 语雀](https://www.yuque.com/where/hid91q)
+* [TinyDemo/spring-boot](https://github.com/TinyDemo/spring-boot)
+* [Spring Boot 开发最佳实践 · 语雀](https://www.yuque.com/where/hid91q)
+
+### NestJS 开发最佳实践
+* [TinyDemo/NestJS](https://github.com/TinyDemo/NestJS)
+* [NestJS 开发最佳实践 · 语雀](https://www.yuque.com/where/fg10rn)
 
 ### Where‘s blog
 
-[Where's Blog](https://moorper.com/)
+* [Where's Blog](https://moorper.com/)

@@ -1,5 +1,5 @@
 module.exports = {
-    title: "求职/深圳/后端开发/刘照伟",
+    title: "简历/刘照伟/后端开发/深圳",
     themeConfig: {
         logo: "logo.png"
     },
